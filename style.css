@@ -1,0 +1,93 @@
+body {
+    height: 100%;
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.logo {
+    padding-top: 200px;
+    align-content: center;
+    text-align: center;
+}
+.searchbar input {
+	align-content: center;
+	text-align: center;
+	border-radius: 30px;
+	height: 40px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 45px;
+	padding-left: 45px;
+	font-size: 16px;
+	margin-top: 15px;
+}
+.searchbar {
+	align-content: center;
+	text-align: center;
+}
+.button {
+	text-align: center;
+	margin-top: 15px;
+	border: none;
+	padding: 14px 28px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 220px;
+	background-color: #000;
+	color:white;
+	text-decoration: none;
+	font-size: 100%;
+display: inline-block;
+display: flex;
+  justify-content: center;
+background-color: #e7e7e7;
+cursor: pointer;
+outline: none;
+display:block;
+}
+
+#header {
+	list-style-type: none;
+	margin: 10px;
+	padding: 10px;
+	text-decoration: none;
+}
+li a {
+  border: 1px solid #555;
+text-decoration: none;
+padding: 10px;
+border: 1px;
+color: #000;
+font-size: 13px;
+}
+#image2 {
+	width: 20px;
+	height: 20px;
+border: 10px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+#signin {
+background-color: #0060ff;
+    color: #fff;
+    border: 10px;
+    padding: 10px;
+margin-left: 5px;
+}
+
+#footer {list-style-type: none;
+}
+.navbar {
+ list-style-type: none;
+	padding-bottom: 10px;
+	padding-right: 5px;
+	text-decoration: none;
+	Background-color: #f1f1f1;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
